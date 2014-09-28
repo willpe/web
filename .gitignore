@@ -28,3 +28,4 @@ node_modules
 .lock-wscript
 
 local/
+.DS_Store
